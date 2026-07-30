@@ -1,0 +1,7 @@
+Patient ID,Name,Timestamp,Prediction,Confidence (%),Glucose,BMI,Age,Notes
+PID-253BB4,Anonymous,2026-05-13 19:27:23,Non-Diabetic,16.2,120,25.0,30,
+PID-D0C378,Anonymous,2026-05-13 19:27:35,Non-Diabetic,8.5,120,25.0,30,
+PID-B3C242,Anonymous,2026-05-13 19:27:49,Non-Diabetic,21.8,120,25.0,30,
+PID-766FC0,Anonymous,2026-05-13 19:27:59,Non-Diabetic,5,120,25.0,30,
+PID-37366D,Anonymous,2026-05-13 19:31:03,Non-Diabetic,14.6,120,25.0,30,
+PID-25F08E,Anonymous,2026-05-13 19:31:11,Non-Diabetic,14.6,120,25.0,30,
